@@ -1,15 +1,3 @@
-// function emojidata() {
-//     const options = { method: 'GET' };
-
-//     fetch('https://emoji-api.com/emojis?access_key=636e46273963d17a49928173ba715122a4463df7', options)
-//         // .then(response => response.json())
-//         // .then(data => console.log(data))
-//         .then(data => data.json())
-//     // .catch(err => console.error(err));
-// }
-
-// export default emojidata;
-
 const emojidata = [
     {
         "slug": "grinning-face",
