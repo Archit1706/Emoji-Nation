@@ -145,7 +145,7 @@ const emojidata = [
     },
     {
         "slug": "smiling-face",
-        "character": "☺️",
+        "character": "☺",
         "unicodeName": "smiling face",
         "codePoint": "263A FE0F",
         "group": "smileys-emotion",
@@ -169,7 +169,7 @@ const emojidata = [
     },
     {
         "slug": "smiling-face-with-tear",
-        "character": "🥲",
+        "character": "😂",
         "unicodeName": "smiling face with tear",
         "codePoint": "1F972",
         "group": "smileys-emotion",
