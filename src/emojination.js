@@ -1507,7 +1507,7 @@ const emojidata = [
     },
     {
         "slug": "pinched-fingers",
-        "character": "🤌",
+        "character": "pinch",
         "unicodeName": "pinched fingers",
         "codePoint": "1F90C",
         "group": "people-body",
@@ -9991,7 +9991,7 @@ const emojidata = [
     },
     {
         "slug": "ninja",
-        "character": "🥷",
+        "character": "🐱‍👤",
         "unicodeName": "ninja",
         "codePoint": "1F977",
         "group": "people-body",
