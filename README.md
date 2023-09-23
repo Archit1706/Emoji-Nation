@@ -27,3 +27,6 @@ Then:
 `npm start`
 
 ### 3. Explore 😀
+
+![image](https://github.com/Archit1706/Emoji-Nation/assets/75872913/ba8e1506-8a34-4a87-9eec-0616eb3dc70a)
+
